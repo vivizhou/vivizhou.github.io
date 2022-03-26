@@ -1,5 +1,6 @@
-layout: page
-title: "test TITLE"
-permalink: /test
+---
+layout: post
+title: Blogging Like a Hacker
+---
 
 # Introduction
