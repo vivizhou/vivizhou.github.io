@@ -1,3 +1,8 @@
 theme: jekyll-theme-minimal
 title: Vivi's homepage
 description: Bookmark this to keep an eye on my project updates!
+
+
+# Build settings
+markdown: kramdown
+theme: minima
