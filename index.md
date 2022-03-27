@@ -8,4 +8,4 @@ title: test
 
 ## insert a figure
 
-![alt text](_figures/unicorn.jpg)
+![alt text](figures/unicorn.jpg)
